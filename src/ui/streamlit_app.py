@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 import networkx as nx
 
 ###
-# Packages required to run this pyhthon file
+# Packages required to run this Python file
 #  1). plotly package : Install it by using command : pip install plotly
 #  2). networkx package : Install it by using command : pip install networkx
 #  3). streamlit package : Install it by using command : pip install streamlit
